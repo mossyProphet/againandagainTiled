@@ -1,0 +1,60 @@
+{ "compressionlevel":-1,
+ "height":34,
+ "infinite":false,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJzFleENxCAIhbH7uKMDucV1l1vjQgMJEiDPNun9eClt\/UQR8CAaRy0qNGaj0UWBTawpT7U9+6HrX8j2l1n5VrKZmGXNtsqypyiwSXm2T4AVX0PHK69riFiZf2FRv25+iE3iw+8UxSvbb+R3NixWT9goVhUb7dnut8qN7mTjjeTzP9jsjKO9InG2+bR7Rk\/Zu3mFslWc0L5h69fWHVq\/zoZY42uLdXW39LrqjFyf2O6xvq\/bWPucztbsex3C9nUcfB99a1EkZe\/e3T9za3LD",
+         "encoding":"base64",
+         "height":34,
+         "id":2,
+         "name":"back",
+         "opacity":0.46,
+         "type":"tilelayer",
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJxjYKAMrGFkaMCDGbBhZL3YzNRnwC4+qnfo6UXGID3o+DBQHTJG1nsEipHdgGwvSD1QHoxx6cXnZhx6sQJc\/sXl98Gul3+A7B0EeuFpA1k9GhueNtDTM3KahOlBosHqcenFlx9Gy8mRrZfcOpRcAADRfoKy",
+         "encoding":"base64",
+         "height":34,
+         "id":3,
+         "name":"front",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":15,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":4,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.10.2",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/miscellaneous.json"
+        }, 
+        {
+         "firstgid":25,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/supports.json"
+        }, 
+        {
+         "firstgid":62,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/materials.json"
+        }, 
+        {
+         "firstgid":259,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":1.1,
+ "width":15
+}

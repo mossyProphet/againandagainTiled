@@ -1,0 +1,427 @@
+{
+"metadata" : {
+    "name" : "novakidhumangrad",
+    "species" : "novakid",
+    "rules" : [],
+    "anchor" : [ "gradbase1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 300,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+  "parts": [
+    {
+      "name": "gradbase1",
+      "rules": [
+        [
+          "maxSpawnCount",
+          [ 1 ]
+        ],
+        [
+          "doNotCombineWith",
+          []
+        ],
+        [
+          "doNotConnectToPart",
+          [ "gradbase1" ]
+        ]
+      ],
+      "def": [ "tmx", "novakidfloatingstationbase.json" ],
+      "chance": 1
+    },
+    // SALOON BALCONY AREAS
+    {
+      "name": "saloon_balcony1",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony1.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony2",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony2.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony3",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony3", "saloon_balcony4" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony3.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony4",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony3", "saloon_balcony4" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony4.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony5",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony5", "saloon_balcony6" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony5.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony6",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony5", "saloon_balcony6" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony6.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony7",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony7", "saloon_balcony8" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony7.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_balcony8",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_balcony7", "saloon_balcony8" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_balcony8.json" ],
+      "chance": 1
+    },
+    // SALOON BARS
+    {
+      "name": "saloon_bar1_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar1_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar1_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar1_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar2_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar2_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar2_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar2_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar3_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar3_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar3_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar3_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar4_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar4_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar4_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar4_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar5_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar5_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar5_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar5_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar6_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar8_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar6_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar8_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar7_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar7_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar7_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar7_right.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar8_left",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar8_left.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "saloon_bar8_right",
+      "rules": [
+        [ "ignorePartMaximumRule" ],
+        [
+          "doNotCombineWith",
+          [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ]
+        ]
+      ],
+      "def": [ "tmx", "saloon_bar8_right.json" ],
+      "chance": 1
+    },
+    {
+      "name": "human_balcony1",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+
+      ],
+      "def": [ "tmx", "human_balcony1.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_balcony2",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_balcony2.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_left1",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_left1.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_right1",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_right1.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_left2",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_left2.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_right2",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_right2.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_left3",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_left3.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_rooms_right3",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_rooms_right3.json" ],
+      "chance": 1
+    },
+
+    {
+      "name": "human_balcony3",
+      "rules": [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def": [ "tmx", "human_balcony3.json" ],
+      "chance": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "JSON шаблон-файлы (*.tj *.json)",
+    "fileStates": {
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/dungeons/novakid/novakidvillage/blacksmith2.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/dungeons/novakid/novakidvillage/endcap_right.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed/huge-objects.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed/liquids.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed/materials.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed/miscellaneous.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed/supports.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "ThisIsMyTileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "huge-objects.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "materials.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/tilesets/packed",
+    "map.height": 60,
+    "map.layerDataFormat": null,
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "MoogTown.tiled-project",
+    "recentFiles": [
+        "huge-objects.json",
+        "materials.json",
+        "ThisIsMyTileSet.tsx",
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/dungeons/novakid/novakidvillage/endcap_right.json",
+        "C:/Users/mitsk/OneDrive/Рабочий стол/Packed/dungeons/novakid/novakidvillage/blacksmith2.json"
+    ],
+    "tileset.lastUsedFilter": "JSON файлы с наборами тайлов (*.tsj *.json)",
+    "tileset.lastUsedFormat": "json",
+    "tileset.type": 1
+}

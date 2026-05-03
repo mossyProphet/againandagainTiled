@@ -1,0 +1,60 @@
+{ "compressionlevel":-1,
+ "height":13,
+ "infinite":false,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjYmBgYBrFWPFRKuCh6u7B5l+Q2fUDgEf9NOqn4egnJiLtJxUTMpOW\/iHGT7TAtPYTvf1FD\/\/Qy2\/09gs2PJjr1eGAAd03rew=",
+         "encoding":"base64",
+         "height":13,
+         "id":2,
+         "name":"back",
+         "opacity":0.58,
+         "type":"tilelayer",
+         "visible":true,
+         "width":53,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJxjYKAPEKCTPTBwlHjcgIYx1EgxYseE5KiFSfUTpeFGqf5RPw0vP\/GSoIdSN1GqnxT\/4DADvTxooNRNlOqnchjjLOfoXe5RE1AaV5S4hxb+gZpLURok1020iiMk88nOX6S6idI0J0iaXcj+okt+ooU\/qAH46GgXAN4gpCw=",
+         "encoding":"base64",
+         "height":13,
+         "id":3,
+         "name":"front",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":53,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":5,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.10.2",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/miscellaneous.json"
+        }, 
+        {
+         "firstgid":25,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/materials.json"
+        }, 
+        {
+         "firstgid":222,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/supports.json"
+        }, 
+        {
+         "firstgid":259,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/supports.json"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":1.1,
+ "width":53
+}
