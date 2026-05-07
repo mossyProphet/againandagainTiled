@@ -3,19 +3,19 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "human_rooms_left1.json",
+    "activeFile": "human_rooms_left2.json",
     "expandedProjectPaths": [
-        "assets/Packed/tilesets",
-        "tilesets/packed",
-        "assets/Packed/tilesets/packed",
+        "steamspring",
+        "assets/Packed",
+        "dungeons",
+        "assets",
         "alternateSet",
         "huh",
-        "steamspring",
-        "assets",
+        "tilesets/packed",
+        "novakidhumangrad",
+        "assets/Packed/tilesets/packed",
         ".",
-        "dungeons",
-        "assets/Packed",
-        "novakidhumangrad"
+        "assets/Packed/tilesets"
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
@@ -3433,6 +3433,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/jungle.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/knowledge.json": {
@@ -3511,6 +3512,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/pastel.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/peacekeeper.json": {
@@ -3534,6 +3536,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/retroscifi.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/rust.json": {
@@ -3574,6 +3577,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spooky.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spring.json": {
@@ -3584,6 +3588,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steampunk.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steamspring.json": {
@@ -3658,6 +3663,7 @@
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/wreck.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/zen.json": {
@@ -5539,8 +5545,8 @@
             "scale": 2.765725806451613,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 117.50984108470622,
-                "y": 43.749817757690636
+                "x": 123.65650969529085,
+                "y": 48.26942703017933
             }
         },
         "human_balcony2.json": {
@@ -5562,8 +5568,8 @@
             "scale": 2.765725806451613,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 104.13179763813966,
-                "y": 43.388249015891546
+                "x": 123.65650969529085,
+                "y": 48.26942703017933
             }
         },
         "human_balcony3.json": {
@@ -5585,16 +5591,16 @@
             "scale": 2.765725806451613,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 115.70199737571075,
-                "y": 92.56159790056861
+                "x": 123.65650969529085,
+                "y": 48.26942703017933
             }
         },
         "human_balcony4.json": {
             "scale": 3.217741935483871,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 121.51378446115288,
-                "y": 89.50375939849624
+                "x": 121.203007518797,
+                "y": 89.19298245614036
             }
         },
         "human_balcony4r.json": {
@@ -5604,8 +5610,8 @@
             "scale": 3.217741935483871,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 121.82456140350877,
-                "y": 45.684210526315795
+                "x": 124,
+                "y": 48.01503759398496
             }
         },
         "human_balcony5.json": {
@@ -5615,8 +5621,8 @@
             "scale": 3.217741935483871,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 119.95989974937342,
-                "y": 43.81954887218045
+                "x": 119.33834586466163,
+                "y": 43.197994987468675
             }
         },
         "human_balcony5r.json": {
@@ -5627,16 +5633,16 @@
             "scale": 3.217741935483871,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 121.51378446115288,
-                "y": 45.684210526315795
+                "x": 124,
+                "y": 48.01503759398496
             }
         },
         "human_balcony6.json": {
             "scale": 3.692741935483871,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 122.40227123826162,
-                "y": 47.119458397029916
+                "x": 123.75627866346362,
+                "y": 48.067263594671324
             }
         },
         "human_balcony6r.json": {
@@ -5647,8 +5653,8 @@
             "scale": 2.765725806451613,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 165.59848374398604,
-                "y": 41.218836565096964
+                "x": 123.65650969529085,
+                "y": 48.26942703017933
             }
         },
         "human_rooms_left1.json": {
@@ -5659,8 +5665,20 @@
             "scale": 1.8136363636363637,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 216.14035087719296,
-                "y": 68.92230576441099
+                "x": 215.0375939849624,
+                "y": 67.81954887218043
+            }
+        },
+        "human_rooms_left2.json": {
+            "expandedObjectLayers": [
+                9,
+                6
+            ],
+            "scale": 1.8136363636363637,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 215.0375939849624,
+                "y": 67.81954887218043
             }
         },
         "human_rooms_right1.json": {
@@ -5671,20 +5689,20 @@
             "scale": 1.5588636363636363,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 212.97565242746757,
-                "y": 66.07377168683482
+                "x": 219.39058171745154,
+                "y": 72.1679545123196
             }
         },
         "human_rooms_right2.json": {
             "expandedObjectLayers": [
-                6,
-                4
+                4,
+                6
             ],
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 201.33333333333337,
-                "y": 59.99999999999997
+                "x": 220,
+                "y": 72.33333333333331
             }
         },
         "icefortressbase.json": {
@@ -5789,14 +5807,14 @@
         },
         "novakidfloatingstationbase.json": {
             "expandedObjectLayers": [
-                3,
-                4
+                4,
+                3
             ],
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 582,
-                "y": 304
+                "x": 580,
+                "y": 302
             }
         },
         "novakidfloatingstationmediumcap.json": {
@@ -5807,8 +5825,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1252,
-                "y": 279.99999999999994
+                "x": 1040,
+                "y": 224.66666666666663
             }
         },
         "novakidfloatingstationshortcap.json": {
@@ -5818,8 +5836,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 752,
-                "y": 49
+                "x": 896,
+                "y": 56.5
             }
         },
         "novakidfloatingtown/novakidfloatingfarms/novakidfloatingfarmbase.json": {
@@ -6432,9 +6450,9 @@
         },
         "occasusmasterplaguefacilitycenterroom.json": {
             "expandedObjectLayers": [
-                3,
                 5,
-                4
+                4,
+                3
             ],
             "scale": 1,
             "selectedLayer": 2,
@@ -6898,7 +6916,7 @@
         "occasusskullfoundrybalconyofshadow.json",
         "human_balcony4.json",
         "human_balcony5.json",
-        "human_rooms_left1.json",
+        "human_rooms_left2.json",
         "novakidfloatingstationbase.json",
         "novakidfloatingstationmediumcap.json",
         "novakidfloatingstationshortcap.json",
