@@ -1,11 +1,9 @@
-{ "margin":0,
+{ "columns":0,
+ "margin":0,
  "name":"miscellaneous",
- "properties":
-    {
-
-    },
  "spacing":0,
  "tilecount":24,
+ "tiledversion":"1.10.2",
  "tileheight":8,
  "tileproperties":
     {
@@ -97,15 +95,15 @@
         {
          "\/\/description":"Zero G",
          "\/\/shortdescription":"An unprotected area without gravity.",
-         "dungeonid":"65525",
-         "allowOverdrawing":"true"
+         "allowOverdrawing":"true",
+         "dungeonid":"65525"
         },
      "21":
         {
          "\/\/description":"Zero G (protected)",
          "\/\/shortdescription":"A tile-protected area without gravity.",
-         "dungeonid":"65524",
-         "allowOverdrawing":"true"
+         "allowOverdrawing":"true",
+         "dungeonid":"65524"
         },
      "22":
         {
@@ -168,104 +166,315 @@
          "surface":"1"
         }
     },
+ "tilepropertytypes":
+    {
+     "0":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "clear":"string"
+        },
+     "1":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "clear":"string"
+        },
+     "10":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "surface":"string"
+        },
+     "11":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "clear":"string"
+        },
+     "12":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "connector":"string"
+        },
+     "13":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "connector":"string"
+        },
+     "14":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "connector":"string"
+        },
+     "15":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "connector":"string"
+        },
+     "16":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "layer":"string",
+         "worldGenMustContainAir":"string"
+        },
+     "17":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "layer":"string",
+         "worldGenMustContainSolid":"string"
+        },
+     "18":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "material":"string"
+        },
+     "19":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "material":"string"
+        },
+     "2":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "material":"string"
+        },
+     "20":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "dungeonid":"string"
+        },
+     "21":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "dungeonid":"string"
+        },
+     "22":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "worldGenMustContainLiquid":"string"
+        },
+     "23":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "worldGenMustNotContainLiquid":"string"
+        },
+     "3":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "playerstart":"string"
+        },
+     "4":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "worldGenMustContainAir":"string"
+        },
+     "5":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "worldGenMustContainSolid":"string"
+        },
+     "6":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "biomeitems":"string"
+        },
+     "7":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "biometree":"string"
+        },
+     "8":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "surface":"string"
+        },
+     "9":
+        {
+         "\/\/description":"string",
+         "\/\/shortdescription":"string",
+         "allowOverdrawing":"string",
+         "surface":"string"
+        }
+    },
  "tiles":
     {
      "0":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/00.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/00.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "1":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/01.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/01.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "10":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/10.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/10.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "11":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/11.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/11.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "12":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/12.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/12.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "13":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/13.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/13.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "14":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/14.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/14.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "15":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/15.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/15.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "16":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/16.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/16.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "17":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/17.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/17.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "18":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/18.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/18.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "19":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/19.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/19.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "2":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/02.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/02.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "20":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/20.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/20.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "21":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/21.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/21.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "22":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/22.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/22.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "23":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/23.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/23.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "3":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/03.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/03.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "4":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/04.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/04.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "5":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/05.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/05.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "6":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/06.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/06.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "7":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/07.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/07.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "8":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/08.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/08.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "9":
         {
-         "image":"..\/..\/..\/..\/tiled\/packed\/miscellaneous\/09.png"
+         "image":"..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/tiled\/packed\/miscellaneous\/09.png",
+         "imageheight":8,
+         "imagewidth":8
         }
     },
- "tilewidth":8
+ "tilewidth":8,
+ "type":"tileset",
+ "version":1.1
 }

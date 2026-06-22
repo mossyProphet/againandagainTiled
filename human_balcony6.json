@@ -110,18 +110,6 @@
                  "y":56
                 }, 
                 {
-                 "gid":7757,
-                 "height":32,
-                 "id":1423,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":96,
-                 "y":80
-                }, 
-                {
                  "gid":7702,
                  "height":24,
                  "id":1424,
@@ -130,19 +118,19 @@
                  "type":"",
                  "visible":true,
                  "width":56,
-                 "x":120,
+                 "x":136,
                  "y":80
                 }, 
                 {
-                 "gid":7702,
-                 "height":24,
-                 "id":1425,
+                 "gid":7943,
+                 "height":13,
+                 "id":1426,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":56,
-                 "x":176,
+                 "width":23,
+                 "x":104,
                  "y":80
                 }],
          "opacity":1,
@@ -315,7 +303,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1426,
+ "nextobjectid":1427,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -432,6 +420,10 @@
         {
          "firstgid":7695,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/human.json"
+        }, 
+        {
+         "firstgid":7942,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogcity\/chemPromObjects.json"
         }],
  "tilewidth":8,
  "type":"map",

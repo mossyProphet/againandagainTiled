@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt3EGKwjAUh\/E6B5oj6CrgoVzkJm7ncnOHQZxCKaamScx7+fdb\/FYVhMfXUH3Q62marjv8XAA7e1pd+37jdgH8SHW67vo+PT2ufW14XP89A3ZyGp17pm+Mhr6hjL6hjL6hjL6hjL6hrKTvnP8UgREsWy45v+fP9hZOU0yY0J9VB3sa9dr3Rss07Rh9F7VMzwM7Wt+ZPdO0KMW+dzQdrecP36176TvR7hbzecN\/65Z9h\/1NR+u5wh9vfYeyrqP1HOGbh74DbeODrPoO5V3PzGeHcdT0zX4eKlrs50P92R2tzwOMp9fzSaBvGKBvKKNvKKNvKKNvKKNvKKNvKKNvKCvte7nHtN4\/ATWWe8tX74\/l\/IZXued36n3e9A3PcvtOvTucvuEZfUMZfUMZfUMZfUMZfUMZfUMZfUNZbd\/s5zG6W6Jtzm94x\/MJlNE3lPXo+\/+7YgPm88J46BvK6BvKeP6GKn5fQlmvvhs1bj4vjGPurqZv9pcYXYv95Zr1vQ1Nr1rLabR133SOlrYas+yb1lEqtysvfdM63ilpyWPftI6apkfqm96PpXUvo\/VN8zp6tKHQN837Z9WBat+0f5yG6Zt7QLHdT\/fNfh4KUn0Dav4ApN0s7A==",
+         "data":"eJzt3EFqwzAQRmGnB+oRmlUhqxyoq94km0KP0asV0xqMiSXZkv3PjN7iLVKHJpE\/C8WC3C7DcNvQx5VI1xary14z3a9EdlpzunT9GP4aj70kGo\/\/vBHpKjE6ecY3eQvfFDl8U+TwTZHDN0UO3xS5Pb5L7ikSeWhuec\/8PT337N4vwyfZSeVgi1GrvtXnjuya9+ZbfU7Il3nrvtXjTb69W\/StHlOymWff6rEjX3nwrR4jipE13+rxoJhZ8K0eA4qdyrf6c1Nf1fhmf56i1GJ\/Xn0tU5+dtT5Rf07qM3xT5PBNkcM3RQ7fFDl8U+TwTZHDN0Vur+\/5PqZ6\/4mopvm+5bPfj2X+JquVzt9rv+eNb7Jcqe+13w7HN1kO3xQ5fFPk8E2RwzdFDt8++r4yhnvCt4\/wvS9822j0+5UodVz93i1X65v9+f0t\/aYMl\/ifnrP83\/PUn9li9xXbgvl78FbKZMrp0nPOfu766HW+d7Y+kXs9wnSN7622ezOObxuuc+uRZ4\/3uO7N+Bm+\/89\/ON\/fjZzl5vKU79rXUPs7I3zX+W7tOjdPt35NtT98+\/C9nM9bd4RtfLP+TtlWlluLp9ZP88dqf0f24PtlVSlPR5reu8YpSW3So+9GxuWeU75z8+mWdXbLa6BX35O7Gt89719u+U7Ycn5tvf5Wj6O6FvuXy9TXdm2tbOUcr\/2N75bpOXteidHWvj07bzl3lvquWfv0YDxlTOnbo\/WjXafudcwft3SuHtPWpi369mT9LNup9Ugr3+qxPMK0dd8erJ9hO+W79PjSsjfbtX6s+7bs3YLvZ89Rj4vSs3ffVs2rfI+v7fXe9Rk2Ivj2Yr7Et\/o9e7bck2+r9iPvG6rPK75tXAMebavPh8J3z\/vzFKc130TR+gWJrTWv",
          "encoding":"base64",
          "height":64,
          "id":1,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztnFtqIzEQRZ31zB7GX1nQfAaCmRXMMrLOsT8aRKNWV6mvXuVz4EKgY0ldOl0xKPbtBhCbXx\/2fN0JGRePqznPAVam5DB+w+rgN0QGvyEy+A2RwW+IDH5DZKx+\/\/t9HIARWJxcoX\/n1v\/5cft7lNJ9k\/o8a3uYWfvebH57XX4lNwZoydW05Psszo\/22+tyzufcmKDFUtMz33POt2aE316fLU7vxwct3ppaXN\/73oJeftc47fU6nQu01NbU6nkr11v6Xet0rdfpvKDlak09nitdb+F3rdNXvU7nBy2qmno9T12vQe13rdcqt7c1gBZlTWsc3zz3ovL7Ss9Wur2tBbSoa3rFcc9aFH5f8Rq\/12AWv729XHE+\/32\/HiWjz\/miRonCGctaj\/wufW5tz9XeTf+en9n696fBS4\/DJ2vF7+Cs6LdwrfgdHPzG78jgN35HBr\/xOzL4jd+RwW\/8jgx+43dkIvmdfnfm9vNK55egZ7XzS8v3a34ZvVP078dzHPI+6dW\/Sw739PvPc5yf+3nOfu9RuH50rfQay3Xr3NZx9mOp1u2Z\/2zc3FiePXxHvxV5VFwrvcZy3bouzzj7fnd13WdjtbyXXPCbzBrFM4LfJHLwm0QOfpPIwW8SOfhNIge\/SeTM5nfr8\/nR9SZ90+vzxSv3b9V5BalLemb04+xRs\/XvEgq\/Pf+7kJ4Rkzni3RP8xu+VEtVvxTq3jP57S\/pE6cwZM\/mN4\/Gj9uWM2fzG85hp5ckZovffeE66em1x+8XsfuP5munhhAWF37dO94Prc6enA1YU55cpinMpzj7XyIi9Tul1fpnyWkPP5zg33+h9jxpL7VvvtZcWfm+M8pv3NVqPFbW\/kpxbVlr6nTKD3\/jv83ek3x63SvTyO2VWv1d9Hkbdv7r2Crf2jPA7ZbYak761b+nWi9F+78HvdVJT+ytE8DsHfs+Zs9qriep3Dvwen7T2PXgnv0vzjd73qLHUviX4bWe0K7OlZ+1raeE3IasH4F34D6Y3GZk=",
+         "data":"eJzt3EFu2zAQBVD7PD2EVl0F6AFyiy4KxBujhwngayZGK4AghuQM+UkO6f+BQVrLlkbUEyNbSS4Xhtk7P676ejtYrHllsSo5Z5iVkzNM38zqoW9m59A3s3Pom9k59M3sHPpmdo7W959ruhhmRjQmV5i\/pf5\/Xi9\/U5Xbb1Z9WcfcQ7z5to7rs6R1MNhIY1o6Lh7Mz\/ZttSx5ltbJYKMZU82xG+19hm+rZ43peP0MNtYx1R7X3tZH+a4xbXUdbovBpnZMLce6h\/WevmtN17oOt8tg0zqm1uOPst7Dd63pVtfh9hlsUGNaY6LFOdp3rWuU7bMHBhvkmNb6qOkB5btlzkbaPnthsEGPaYtxSy8I3y2u6XuNePFtncsR9+d\/He2FzOz7fLsWMggzml5TvnO\/txan9Vzk\/O0\/3uZvjRmL4dm9WkLf+Kzoe9de6Rsf+vbTK33jQ99+eqVvfOjbT6\/0jQ99++mVvvGhbz+90jc+9O2nV\/rGZyff4d\/OPP+90v1LBp\/V7l9q\/r7mm9Id4ly8f6+H9To1av7OGR7p+\/f3ej6OcpWed88sTy3LvUazXLtt7XridaH6tmy\/tF5pXZZj+Iq+EXWvWJZ7jWa5ti\/LeuL5rrXv0rp67otU9M3yWohzhL791ucxv4fVi759l9X48\/ml12ieI9Xj+Fezx4S+9\/F9etS66uX77GG17yn07b9OW4\/AWMpZL98rzt30vU59Cr5zxsOvqeXa7Vq+f3gr+l6jQtOx8dh7\/Fho0zK\/h+fU7P3fxXfv+\/OzxxtpXJrPJeOp80HaRrze1X2P+v3iledv1P0KpPGcb2n+zi0vrXf2Pof3jD6M\/Xibv3NB9Gr52YXwHrGnkvzmDJd8p+bs8\/+z97flmND3er5j4y2+H\/Ttwjeiz5ZrFM9Vcq7xnXrN7H1rKaSZvE5fvncyLlm9BY\/dgtJck3i55vZke0XfuziX5t2bYDs2Xnp\/Onu\/vLge5fvSsfdVnefeM0q2z9J85rKa8Z42NDa9+x7tHOGnxrZ0raIxHvdb2z\/6vBlhQmMT4fsyaH96W8\/NkdLjped68127zJNpi+1nEPcvwyDuS82695nynfJlef6z3v+X5PpcpvXds7TjNeNYhxl1\/zL2PfI8lrZXYzv+vLlHvStqRB+1pRn73sfamh6+z8zyjbiu6TEvanyHz9e+30RXj7FvKcmWNj19h\/Hg2+Jfug5p8a+Zw2PPFt\/xdbTUb9y7p7FPmdbYymWU7zBefYcVGpA8WEzHn2nnrkvi11nn3LDnuF9p3zyNPcJWnBm+w3gbY62BnKPzMcm2dK1SOh9yplf33dPWM7N9x\/HiG3le5Ob30nwfv6+TPCOsjvLdYmMH31JW951ynpqfS59beKnS2KMd7OpbilfflnMgd90R2vZqPBz7Ecf8lXzntjf7uO9amrHvGfrWZ7YVbzVy7GvTwzeLtXoxzKvkC8akcWQ=",
          "encoding":"base64",
          "height":64,
          "id":2,
@@ -36,7 +36,7 @@
          "name":"object",
          "objects":[
                 {
-                 "gid":15949,
+                 "gid":6233,
                  "height":64,
                  "id":1,
                  "name":"",
@@ -48,7 +48,7 @@
                  "y":240
                 }, 
                 {
-                 "gid":15949,
+                 "gid":6233,
                  "height":64,
                  "id":2,
                  "name":"",
@@ -228,7 +228,7 @@
                  "y":40
                 }, 
                 {
-                 "gid":16327,
+                 "gid":16281,
                  "height":64,
                  "id":28,
                  "name":"",
@@ -236,7 +236,7 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":664,
+                 "x":504,
                  "y":256
                 }],
          "opacity":1,
@@ -353,7 +353,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":29,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -1138,35 +1138,31 @@
         }, 
         {
          "firstgid":15944,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/objects-by-colonytag\/cultist.json"
-        }, 
-        {
-         "firstgid":15953,
          "source":"..\/..\/..\/..\/..\/..\/Users\/RobotComp.ru\/Desktop\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
         }, 
         {
-         "firstgid":15992,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/supports.json"
-        }, 
-        {
-         "firstgid":16029,
+         "firstgid":15983,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/apexresearchlab.json"
         }, 
         {
-         "firstgid":16080,
+         "firstgid":16034,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
         }, 
         {
-         "firstgid":16277,
+         "firstgid":16231,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/ancientcolored.json"
         }, 
         {
-         "firstgid":16295,
+         "firstgid":16249,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
-         "firstgid":16319,
+         "firstgid":16273,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/occasus.json"
+        }, 
+        {
+         "firstgid":16282,
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Users\/RobotComp.ru\/Desktop\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
         }],
  "tilewidth":8,
  "type":"map",

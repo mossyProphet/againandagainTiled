@@ -50,7 +50,7 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":7847,
+                 "gid":7674,
                  "height":40,
                  "id":1431,
                  "name":"",
@@ -62,7 +62,7 @@
                  "y":80
                 }, 
                 {
-                 "gid":7847,
+                 "gid":7674,
                  "height":40,
                  "id":1432,
                  "name":"",
@@ -74,7 +74,7 @@
                  "y":80
                 }, 
                 {
-                 "gid":7878,
+                 "gid":7705,
                  "height":24,
                  "id":1434,
                  "name":"",
@@ -86,19 +86,7 @@
                  "y":56
                 }, 
                 {
-                 "gid":8082,
-                 "height":16,
-                 "id":1435,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":32,
-                 "y":80
-                }, 
-                {
-                 "gid":8177,
+                 "gid":8004,
                  "height":15,
                  "id":1440,
                  "name":"",
@@ -110,7 +98,7 @@
                  "y":80
                 }, 
                 {
-                 "gid":8177,
+                 "gid":8004,
                  "height":15,
                  "id":1441,
                  "name":"",
@@ -119,6 +107,30 @@
                  "visible":true,
                  "width":16,
                  "x":72,
+                 "y":80
+                }, 
+                {
+                 "gid":8036,
+                 "height":13,
+                 "id":1442,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":23,
+                 "x":32,
+                 "y":80
+                }, 
+                {
+                 "gid":8036,
+                 "height":13,
+                 "id":1443,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":23,
+                 "x":192,
                  "y":80
                 }],
          "opacity":1,
@@ -191,7 +203,7 @@
                  "y":72
                 }, 
                 {
-                 "gid":8019,
+                 "gid":7846,
                  "height":40,
                  "id":1437,
                  "name":"",
@@ -285,7 +297,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1442,
+ "nextobjectid":1444,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -396,16 +408,20 @@
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/humanbunker.json"
         }, 
         {
-         "firstgid":7819,
+         "firstgid":7646,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/outpost.json"
         }, 
         {
-         "firstgid":7923,
+         "firstgid":7750,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/human.json"
         }, 
         {
-         "firstgid":8170,
+         "firstgid":7997,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/apexvillage.json"
+        }, 
+        {
+         "firstgid":8035,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogcity\/chemPromObjects.json"
         }],
  "tilewidth":8,
  "type":"map",

@@ -86,38 +86,6 @@
                  "y":40
                 }, 
                 {
-                 "gid":7694,
-                 "height":40,
-                 "id":1414,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":25,
-                 "x":136,
-                 "y":80
-                }, 
-                {
-                 "gid":7694,
-                 "height":40,
-                 "id":1415,
-                 "name":"",
-                 "properties":
-                    {
-                     "tilesetDirection":"left"
-                    },
-                 "propertytypes":
-                    {
-                     "tilesetDirection":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":25,
-                 "x":104,
-                 "y":80
-                }, 
-                {
                  "gid":2634,
                  "height":24,
                  "id":1417,
@@ -126,7 +94,7 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":64,
+                 "x":136,
                  "y":80
                 }, 
                 {
@@ -138,18 +106,42 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":168,
+                 "x":176,
                  "y":80
                 }, 
                 {
-                 "gid":2618,
-                 "height":24,
-                 "id":1419,
+                 "gid":7697,
+                 "height":32,
+                 "id":1420,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":24,
+                 "width":23,
+                 "x":104,
+                 "y":80
+                }, 
+                {
+                 "gid":7697,
+                 "height":32,
+                 "id":1421,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":23,
+                 "x":72,
+                 "y":80
+                }, 
+                {
+                 "gid":7697,
+                 "height":32,
+                 "id":1422,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":23,
                  "x":40,
                  "y":80
                 }],
@@ -323,7 +315,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1420,
+ "nextobjectid":1424,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -436,6 +428,10 @@
         {
          "firstgid":7687,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/cabin.json"
+        }, 
+        {
+         "firstgid":7695,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogcity\/chemPromObjects.json"
         }],
  "tilewidth":8,
  "type":"map",

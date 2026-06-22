@@ -3,19 +3,19 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "human_rooms_left2.json",
+    "activeFile": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemcryoprom.json",
     "expandedProjectPaths": [
-        "steamspring",
         "assets/Packed",
-        "dungeons",
-        "assets",
-        "alternateSet",
-        "huh",
         "tilesets/packed",
-        "novakidhumangrad",
+        "assets/Packed/tilesets",
+        "steamspring",
+        "alternateSet",
         "assets/Packed/tilesets/packed",
         ".",
-        "assets/Packed/tilesets"
+        "huh",
+        "assets",
+        "dungeons",
+        "novakidhumangrad"
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
@@ -32,13 +32,23 @@
         "C:/../../../../../Users/RobotComp.ru/Desktop/againandagain/tilesets/occasus/ruinmaterials.json": {
             "scaleInDock": 1
         },
+        "C:/../../../../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/materials.json": {
+            "scaleInDock": 1
+        },
+        "C:/../../../../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/miscellaneous.json": {
+            "scaleInDock": 1
+        },
         "C:/../../../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/materials.json": {
             "scaleInDock": 1
         },
         "C:/../../../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/miscellaneous.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../../../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/farmable.json": {
+            "scaleInDock": 1
+        },
+        "C:/../../../Users/RobotComp.ru/Desktop/againandagain/tilesets/occasus/ruinmaterials.json": {
             "scaleInDock": 1
         },
         "C:/../../Program Files (x86)/Steam/steamapps/common/Packed/tilesets/packed/miscellaneous.json": {
@@ -725,7 +735,8 @@
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/materials.json": {
             "dynamicWrapping": true,
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/miscellaneous.json": {
             "dynamicWrapping": false,
@@ -1226,6 +1237,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spooky.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spring.json": {
@@ -1235,6 +1247,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steampunk.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steamspring.json": {
@@ -1300,6 +1313,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/wreck.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/zen.json": {
@@ -1327,6 +1341,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/human.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/hylotl.json": {
@@ -1347,6 +1362,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/farmable.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/loungeable.json": {
@@ -1380,8 +1396,12 @@
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/moogCity.json": {
             "scaleInDock": 1
         },
-        "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json": {
+        "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogcity/chemPromObjects.json": {
             "scaleInDock": 1
+        },
+        "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/ruinmaterials.json": {
             "scaleInDock": 1
@@ -1392,7 +1412,649 @@
         "C:/../Users/RobotComp.ru/Desktop/againandagain/tilesets/occasus/ruinmaterials.json": {
             "scaleInDock": 1
         },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/materials.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/miscellaneous.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/cultist.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/electronic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/human.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/humanbunker.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/lunarbase.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/science.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/human.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/supports.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/ruinmaterials.json": {
+            "scaleInDock": 1
+        },
         "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/Packed/tilesets/packed/objects-by-colonytag/human.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/huge-objects.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/liquids.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/materials.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/miscellaneous.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/actionfigure.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/artifact.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/breakable.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/bug.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/crafting.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/decorative.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/door.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/farmable.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/farmbeastegg.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/fridgestorage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/furniture.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/genboss.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/generic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/light.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/other.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/playerstation.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/pot.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/rail.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/railpoint.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/refinery.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/sapling.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/seed.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/shippingcontainer.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/spawner.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/storage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/techmanagement.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/teleporter.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/teleportmarker.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/terraformer.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/tool.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/tools.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/trap.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category/wire.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/agaran.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/alien.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/alpaca.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/alpine.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/ancient.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apex.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apexcamp.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apexmansion.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apexmission1.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apexresearchlab.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/apexvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/astro.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/astronaut.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/avian.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/avianairship.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/aviantemple.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/aviantomb.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/avianvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/bench.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/bioluminescence.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/bone.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/cabin.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/cell.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/christmas.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/colourful.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/combat.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/commerce.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/cooking.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/copper.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/coral.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/crafting.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/crystalline.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/cultist.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/dark.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/doom.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/door.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/egyptian.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/electronic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/evil.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/executive.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/explorer.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/eyepatch.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/farm.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/farming.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/fenerox.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/flesh.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/floran.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/floranhuntinggrounds.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/floranprison.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/floranvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/fossil.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/foundry.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/frozenfire.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/geode.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/geometric.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/giantflower.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/glitch.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/glitchcastle.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/glitchsewer.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/glitchvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/gnome.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/gothic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/hive.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/hoard.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/human.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/humanbunker.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/humanprison.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/humanvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/hylotl.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/hylotloceancity.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/hylotlvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/ice.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/industrial.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/island.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/jungle.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/knowledge.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/light.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/lunarbase.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/mech.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/mechanical.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/medical.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/mining.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/misc.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/mushroompatch.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/musical.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/naturalcave.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/nature.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/neon.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/novakid.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/novakidvillage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/oasis.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/ocean.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/odd.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/office.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/opulent.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/outdoor.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/outpost.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/pastel.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/peacekeeper.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/pretty.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/prism.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/protectorate.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/rails.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/retroscifi.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/rust.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/saloon.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/sandstone.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/science.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/scorched.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/sea.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/serene.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/sign.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/slime.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/space.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spooky.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/spring.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/station.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steampunk.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/steamspring.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/stonecave.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/storage.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/swamp.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tar.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/technology.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tentacle.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tier1.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tier2.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tier3.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/tier4.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/toxic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/trap.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/traveller.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/valentines.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/valuable.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/volcanic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/wave.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/wired.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/wreck.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/zen.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/alpaca.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/ancient.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/apex.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/avian.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/floran.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/generic.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/glitch.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/human.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/hylotl.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/novakid.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/protectorate.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-race/tentacle.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/container.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/farmable.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/loungeable.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/noisy.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/physics.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/teleporter.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/supports.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/ancientcolored.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/ruinmaterials.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/Program Files (x86)/Steam/steamapps/common/Starbound/mods/galaxy_in_conflict/tilesets/galaxy_in_conflict-custom/gic_general.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/assets/Packed/tilesets/packed/materials.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/assets/Packed/tilesets/packed/miscellaneous.json": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files (x86)/Steam/assets/Packed/tilesets/packed/objects-by-category/door.json": {
             "scaleInDock": 1
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Packed/dungeons/novakid/novakidvillage/MoogSupportBeamArch.json": {
@@ -3821,6 +4483,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemPromObjects.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemcryoprom.json": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
@@ -3854,10 +4520,16 @@
             "scaleInDock": 0.0625,
             "scaleInEditor": 0.0625
         },
+        "C:/Program Files (x86)/Steam/steamapps/common/tilesets/occasus/occasus.json": {
+            "scaleInDock": 1
+        },
         "C:/Program Files/OpenStarbound/mods/againandagain/tilesets/occasus/occasus.json": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "C:/Users/RobotComp.ru/Desktop/againandagain/tilesets/occasus/ruinmaterials.json": {
+            "scaleInDock": 1
         },
         "C:/Users/RobotComp.ru/Documents/assets/Packed/tilesets/packed/liquids.json": {
             "scaleInDock": 1
@@ -4745,8 +5417,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 141,
-                "y": 664.5
+                "x": 140.75,
+                "y": 418.5
             }
         },
         "ancientdambasisbulkinnardsfloatinglibrary.json": {
@@ -4821,14 +5493,14 @@
         },
         "ancientdambasisbulksmallboathouse2.json": {
             "expandedObjectLayers": [
-                4,
-                5
+                5,
+                4
             ],
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 143.5,
-                "y": 487
+                "x": 142.75,
+                "y": 486
             }
         },
         "ancientdambasisbulksmallboathouse3.json": {
@@ -4867,8 +5539,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 147,
-                "y": 626
+                "x": 146.33333333333334,
+                "y": 625.3333333333333
             }
         },
         "assets/Packed/tilesets/packed/huge-objects.json": {
@@ -4884,7 +5556,9 @@
             "scaleInEditor": 1
         },
         "assets/Packed/tilesets/packed/miscellaneous.json": {
-            "scaleInDock": 1
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "assets/Packed/tilesets/packed/objects-by-category/actionfigure.json": {
             "scaleInDock": 1
@@ -5533,8 +6207,8 @@
             "scale": 2.765725806451613,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 84.60708558098848,
-                "y": 42.66511153229335
+                "x": 83.88394809739029,
+                "y": 42.303542790494234
             }
         },
         "human_balcony1r.json": {
@@ -5556,8 +6230,8 @@
             "scale": 2.765725806451613,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 134.14200320746465,
-                "y": 45.5576614666861
+                "x": 133.41886572386645,
+                "y": 44.834523983087934
             }
         },
         "human_balcony2r.json": {
@@ -5566,7 +6240,7 @@
                 4
             ],
             "scale": 2.765725806451613,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 123.65650969529085,
                 "y": 48.26942703017933
@@ -5599,16 +6273,17 @@
             "scale": 3.217741935483871,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 121.203007518797,
-                "y": 89.19298245614036
+                "x": 124,
+                "y": 48.01503759398496
             }
         },
         "human_balcony4r.json": {
             "expandedObjectLayers": [
-                9
+                9,
+                4
             ],
             "scale": 3.217741935483871,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 124,
                 "y": 48.01503759398496
@@ -5621,8 +6296,8 @@
             "scale": 3.217741935483871,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 119.33834586466163,
-                "y": 43.197994987468675
+                "x": 124,
+                "y": 48.01503759398496
             }
         },
         "human_balcony5r.json": {
@@ -5638,11 +6313,14 @@
             }
         },
         "human_balcony6.json": {
-            "scale": 3.692741935483871,
-            "selectedLayer": 1,
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 5.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 123.75627866346362,
-                "y": 48.067263594671324
+                "x": 124,
+                "y": 48.09090909090909
             }
         },
         "human_balcony6r.json": {
@@ -5650,11 +6328,11 @@
                 9,
                 4
             ],
-            "scale": 2.765725806451613,
-            "selectedLayer": 1,
+            "scale": 3,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 123.65650969529085,
-                "y": 48.26942703017933
+                "x": 124,
+                "y": 48.16666666666666
             }
         },
         "human_rooms_left1.json": {
@@ -5671,14 +6349,31 @@
         },
         "human_rooms_left2.json": {
             "expandedObjectLayers": [
-                9,
-                6
+                6,
+                9
             ],
             "scale": 1.8136363636363637,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 215.0375939849624,
-                "y": 67.81954887218043
+                "x": 220,
+                "y": 72.5062656641604
+            }
+        },
+        "human_rooms_left2.json#chempromobjects": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "human_rooms_left3.json": {
+            "expandedObjectLayers": [
+                6,
+                9,
+                4
+            ],
+            "scale": 1.5588636363636363,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 219.39058171745154,
+                "y": 72.1679545123196
             }
         },
         "human_rooms_right1.json": {
@@ -5687,22 +6382,34 @@
                 6
             ],
             "scale": 1.5588636363636363,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 219.39058171745154,
-                "y": 72.1679545123196
+                "x": 216.82461000145796,
+                "y": 69.92272926082521
             }
         },
         "human_rooms_right2.json": {
             "expandedObjectLayers": [
-                4,
-                6
+                6,
+                4
             ],
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 220,
                 "y": 72.33333333333331
+            }
+        },
+        "human_rooms_right3.json": {
+            "expandedObjectLayers": [
+                9,
+                6
+            ],
+            "scale": 1.5588636363636363,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 216.82461000145796,
+                "y": 69.92272926082521
             }
         },
         "icefortressbase.json": {
@@ -5813,20 +6520,20 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 580,
-                "y": 302
+                "x": 896,
+                "y": 591.5
             }
         },
         "novakidfloatingstationmediumcap.json": {
             "expandedObjectLayers": [
-                5,
-                4
+                4,
+                5
             ],
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 1.5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1040,
-                "y": 224.66666666666663
+                "y": 223.66666666666669
             }
         },
         "novakidfloatingstationshortcap.json": {
@@ -6233,30 +6940,33 @@
             "scaleInEditor": 1
         },
         "occasusbarracksroom.json": {
+            "expandedObjectLayers": [
+                3
+            ],
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 105,
-                "y": 81
+                "x": 199,
+                "y": 83.5
             }
         },
         "occasusbaselineroom.json": {
             "expandedObjectLayers": [
                 3
             ],
-            "scale": 3,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 198.66666666666669,
-                "y": 83.33333333333331
+                "x": 199.33333333333331,
+                "y": 84
             }
         },
         "occasusbookroom.json": {
             "scale": 4,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 199,
-                "y": 83
+                "x": 199.75,
+                "y": 83.5
             }
         },
         "occasusbuoyantascent.json": {
@@ -6274,11 +6984,11 @@
             "expandedObjectLayers": [
                 3
             ],
-            "scale": 2,
+            "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 212,
-                "y": 179.75
+                "y": 180.33333333333331
             }
         },
         "occasusbuoyantbasementedge.json": {
@@ -6392,8 +7102,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 251.33333333333331,
-                "y": 135.99999999999997
+                "x": 251,
+                "y": 135.33333333333331
             }
         },
         "occasusbuoyantsciencingrooms.json": {
@@ -6436,29 +7146,29 @@
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 9.666666666666657,
-                "y": 126.66666666666669
+                "x": 72,
+                "y": 127.83333333333334
             }
         },
         "occasusmasterplaguefacilitybloodchamber.json": {
             "scale": 1.2191666666666667,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 118.11346548188652,
-                "y": 354.34039644565956
+                "x": 120.57416267942585,
+                "y": 123.8550922761449
             }
         },
         "occasusmasterplaguefacilitycenterroom.json": {
             "expandedObjectLayers": [
-                5,
                 4,
-                3
+                3,
+                5
             ],
-            "scale": 1,
+            "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 736,
-                "y": 256.5
+                "x": 877.5,
+                "y": 365
             }
         },
         "occasusmasterplaguefacilitycloningfacility.json": {
@@ -6481,20 +7191,20 @@
             "scale": 3.3249999999999997,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 119.39849624060153,
-                "y": 79.39849624060152
+                "x": 120.00000000000003,
+                "y": 80.00000000000001
             }
         },
         "occasusmasterplaguefacilityentrance.json": {
             "expandedObjectLayers": [
-                5,
-                4
+                4,
+                5
             ],
             "scale": 1.5,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 299.33333333333337,
-                "y": 991.9999999999999
+                "x": 304,
+                "y": 905.3333333333333
             }
         },
         "occasusmasterplaguefacilityfarm.json": {
@@ -6517,8 +7227,8 @@
             "scale": 3.3249999999999997,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 119.39849624060153,
-                "y": 79.39849624060152
+                "x": 119.09774436090228,
+                "y": 36.99248120300753
             }
         },
         "occasusmasterplaguefacilityincubator.json": {
@@ -6533,8 +7243,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 241.33333333333331,
-                "y": 132.66666666666663
+                "x": 247.33333333333331,
+                "y": 127.33333333333334
             }
         },
         "occasusmasterplaguefacilitypredbannikleft.json": {
@@ -6545,8 +7255,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 237.33333333333337,
-                "y": 125.99999999999997
+                "x": 239.33333333333331,
+                "y": 128
             }
         },
         "occasusmasterplaguefacilitypredbannikright.json": {
@@ -6687,8 +7397,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 673,
-                "y": 285
+                "x": 671.5,
+                "y": 284
             }
         },
         "occasusskullfoundrygeneratorroom.json": {
@@ -6868,13 +7578,24 @@
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
+        "ruinous_pocket.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 195.99999999999997,
+                "y": 196
+            }
+        },
         "secretTower.tmx": {
             "scale": 0.085205078125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 5093.593123209169,
-                "y": 2012.7908309455586
+                "x": 11924.171919770773,
+                "y": 3415.2893982808023
             }
+        },
+        "secretTower.tmx#chempromobjects": {
+            "scaleInDock": 1
         },
         "testtreasureroom.json": {
             "expandedObjectLayers": [
@@ -6888,65 +7609,37 @@
             }
         }
     },
-    "last.externalTilesetPath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag",
-    "last.imagePath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/tiled/packed",
+    "last.externalTilesetPath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus",
+    "last.imagePath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/tiled/packed/cultist",
     "last.objectTemplatePath": "C:/Users/mitsk/OneDrive/Документы/againandagainTiled",
-    "map.height": 14,
+    "map.height": 49,
     "map.lastUsedFormat": "json1",
     "map.layerDataFormat": null,
     "map.tileHeight": 8,
     "map.tileWidth": 8,
-    "map.width": 224,
+    "map.width": 49,
     "openFiles": [
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/ancientcolored.json",
-        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemcryoprom.json",
-        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json",
-        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/ruinmaterials.json",
-        "secretTower.tmx",
-        "occasusbuoyantascent.json",
-        "occasusbuoyantbase.json",
-        "occasusbuoyantbasementedge.json",
-        "occasusbuoyantbasementedgeleft.json",
-        "occasusbuoyantbasementedgeleftcap.json",
-        "occasusbuoyantbasementedgeright.json",
-        "occasusbuoyantbasementedgerightcap.json",
-        "occasusbuoyantbasementrooms.json",
-        "occasusmasterplaguefacilitycenterroom.json",
-        "occasuspassway.json",
-        "occasusskullfoundrybalconyofshadow.json",
-        "human_balcony4.json",
-        "human_balcony5.json",
-        "human_rooms_left2.json",
-        "novakidfloatingstationbase.json",
-        "novakidfloatingstationmediumcap.json",
-        "novakidfloatingstationshortcap.json",
-        "human_balcony1r.json",
-        "human_balcony2r.json",
-        "human_balcony3r.json",
-        "human_balcony4r.json",
-        "human_balcony5r.json",
-        "human_balcony6.json",
-        "human_balcony6r.json",
-        "human_rooms_right1.json",
-        "human_rooms_right2.json"
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemcryoprom.json"
     ],
     "project": "pillarOfTheMoog.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "assets/Packed/tilesets/packed/materials.json",
+        "assets/Packed/tilesets/packed/miscellaneous.json",
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/ancientcolored.json",
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/chemcryoprom.json",
-        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/occasus.json",
-        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/occasus/ruinmaterials.json",
-        "secretTower.tmx",
-        "occasusbuoyantascent.json",
-        "occasusbuoyantbase.json",
-        "occasusbuoyantbasementedge.json",
-        "occasusbuoyantbasementedgeleft.json",
-        "occasusbuoyantbasementedgeleftcap.json",
-        "occasusbuoyantbasementedgeright.json",
-        "occasusbuoyantbasementedgerightcap.json"
+        "ancientdambasisbulksmallboathouse2.json",
+        "occasusbarracksroom.json",
+        "occasusbaselineroom.json",
+        "occasusbookroom.json",
+        "occasusmasterplaguefacilitypredbannikleft.json",
+        "occasusmasterplaguefacilitypredbannik.json",
+        "occasusmasterplaguefacilityhallway.json",
+        "occasusmasterplaguefacilityentrance.json"
     ],
     "resizeMap.removeObjects": true,
+    "tileset.embedInMap": false,
     "tileset.lastUsedFilter": "Все файлы (*)",
     "tileset.lastUsedFormat": "json1",
     "tileset.type": 1

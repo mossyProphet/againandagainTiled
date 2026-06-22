@@ -1,33 +1,33 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "height":12,
+ "height":18,
  "infinite":false,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJx7w8DA8GaAcQ0QT0WiqY2RzcdmdzuU1qcBRjYfn906JGBi1Y\/aPXjtHsi0RitMrt1LaGg3LcIZFya13KMFBgAIobYn",
+         "data":"eJx7w8DA8GYUD1nsIzt8MDa\/7ZEhHpOrnh72jPqN9n4D8T2QMDZ5UtWP+m3Ub6N+G3l+o4U91PJbGpK+NDQzkPnY\/IZPfRoFYTHaLhk+8UaO3xYgiS1AU7MAi3pke\/CpXyCDqX40TQ58v2MUU4YBSwHfQA==",
          "encoding":"base64",
-         "height":12,
+         "height":18,
          "id":1,
          "name":"back",
          "opacity":0.5,
          "type":"tilelayer",
          "visible":true,
-         "width":31,
+         "width":55,
          "x":0,
          "y":0
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBh4MJWOeBSMglEwcoA+HfFgAAC6wRSt",
+         "data":"eJxjYBgFQxn4yCLYrxkYGoYqRvYHut8G2m2jfhv126jfhg4eaX7bKzM8\/AbzBzIYaDdRE1PqtzRg3HMz0h6D7KGn3+bLQOykl99A9tHDb3uA9uyhs99gdtLSbzA7QOG4QIY+flsAtY8U\/6H7DRQ++PACGUxMSA81MDn2joKhDQDKbRVZ",
          "encoding":"base64",
-         "height":12,
+         "height":18,
          "id":2,
          "name":"front",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":31,
+         "width":55,
          "x":0,
          "y":0
         }, 
@@ -48,55 +48,7 @@
          "draworder":"topdown",
          "id":4,
          "name":"objects",
-         "objects":[
-                {
-                 "gid":5991,
-                 "height":12,
-                 "id":1401,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":24,
-                 "y":48
-                }, 
-                {
-                 "gid":5991,
-                 "height":12,
-                 "id":1413,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":216,
-                 "y":48
-                }, 
-                {
-                 "gid":6025,
-                 "height":24,
-                 "id":1402,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":120,
-                 "y":40
-                }, 
-                {
-                 "gid":7942,
-                 "height":48,
-                 "id":1426,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":74,
-                 "x":40,
-                 "y":80
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -123,54 +75,12 @@
          "objects":[
                 {
                  "height":8,
-                 "id":1405,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"avian",
-                     "typeName":"chefmerchanttenant"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":176,
-                 "y":72
-                }, 
-                {
-                 "height":8,
-                 "id":1406,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"human",
-                     "typeName":"chefmerchanttenant"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":80,
-                 "y":72
-                }, 
-                {
-                 "height":8,
-                 "id":1407,
+                 "id":1447,
                  "name":"",
                  "properties":
                     {
                      "npc":"novakid",
-                     "typeName":"chefmerchanttenant"
+                     "typeName":"cryochempromworker"
                     },
                  "propertytypes":
                     {
@@ -181,8 +91,92 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":216,
-                 "y":72
+                 "x":400,
+                 "y":112
+                }, 
+                {
+                 "height":8,
+                 "id":1450,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"novakid",
+                     "typeName":"villager"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":376,
+                 "y":104
+                }, 
+                {
+                 "height":8,
+                 "id":1451,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"hylotl",
+                     "typeName":"cryochempromworker"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":344,
+                 "y":104
+                }, 
+                {
+                 "height":8,
+                 "id":1452,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"human",
+                     "typeName":"cryochempromworker"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":72,
+                 "y":112
+                }, 
+                {
+                 "height":8,
+                 "id":1453,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"novakid",
+                     "typeName":"villageguard"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":48,
+                 "y":112
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -219,20 +213,20 @@
          "name":"anchors etc",
          "objects":[
                 {
-                 "gid":250,
+                 "gid":248,
                  "height":8,
-                 "id":1399,
+                 "id":1385,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":8,
-                 "y":16
+                 "x":424,
+                 "y":120
                 }, 
                 {
-                 "height":80,
-                 "id":1404,
+                 "height":112,
+                 "id":1445,
                  "name":"",
                  "properties":
                     {
@@ -245,9 +239,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":232,
+                 "width":424,
                  "x":8,
-                 "y":8
+                 "y":16
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -267,7 +261,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":1427,
+ "nextobjectid":1454,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -371,26 +365,14 @@
         }, 
         {
          "firstgid":7327,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-race\/human.json"
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/chemcryoprom.json"
         }, 
         {
-         "firstgid":7615,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/humanbunker.json"
-        }, 
-        {
-         "firstgid":7687,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/cabin.json"
-        }, 
-        {
-         "firstgid":7695,
-         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-colonytag\/human.json"
-        }, 
-        {
-         "firstgid":7942,
-         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/chemPromObjects.json"
+         "firstgid":7333,
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
         }],
  "tilewidth":8,
  "type":"map",
  "version":1.1,
- "width":31
+ "width":55
 }
