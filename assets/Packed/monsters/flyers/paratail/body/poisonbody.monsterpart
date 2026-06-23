@@ -1,9 +1,0 @@
-{
-  "name" : "paratail",
-  "category" : "poisonparatail",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poisonparatail.png"
-  }
-}

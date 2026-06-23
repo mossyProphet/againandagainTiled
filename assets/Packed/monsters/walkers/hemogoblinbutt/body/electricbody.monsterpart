@@ -1,9 +1,0 @@
-{
-  "name" : "hemogoblinbutt",
-  "category" : "electrichemogoblinbutt",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "electrichemogoblinbutt.png"
-  }
-}

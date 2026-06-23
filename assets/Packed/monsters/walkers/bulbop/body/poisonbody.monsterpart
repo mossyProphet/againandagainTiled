@@ -1,9 +1,0 @@
-{
-  "name" : "bulbop",
-  "category" : "poisonbulbop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poisonbulbop.png"
-  }
-}

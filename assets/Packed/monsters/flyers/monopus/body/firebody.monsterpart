@@ -1,9 +1,0 @@
-{
-  "name" : "monopus",
-  "category" : "firemonopus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "firemonopus.png"
-  }
-}

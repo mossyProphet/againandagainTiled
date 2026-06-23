@@ -1,9 +1,0 @@
-{
-  "name" : "nutmidgeling",
-  "category" : "poisonnutmidgeling",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poisonnutmidgeling.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "yokat",
-  "category" : "electricyokat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "electricyokat.png"
-  }
-}

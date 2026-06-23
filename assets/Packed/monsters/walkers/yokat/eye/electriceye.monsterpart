@@ -1,9 +1,0 @@
-{
-  "name" : "yokateye",
-  "category" : "electricyokat",
-  "type" : "eye",
-
-  "frames" : {
-    "eye" : "electricyokateye.png"
-  }
-}
