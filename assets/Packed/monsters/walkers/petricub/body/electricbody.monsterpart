@@ -1,9 +1,0 @@
-{
-  "name" : "petricub",
-  "category" : "electricpetricub",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "electricpetricub.png"
-  }
-}

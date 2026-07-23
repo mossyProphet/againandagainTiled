@@ -1,9 +1,0 @@
-{
-  "name" : "trictus",
-  "category" : "poisontrictus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poisontrictus.png"
-  }
-}

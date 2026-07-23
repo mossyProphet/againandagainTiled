@@ -1,9 +1,0 @@
-{
-  "name" : "miasmop",
-  "category" : "icemiasmop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icemiasmop.png"
-  }
-}

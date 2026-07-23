@@ -1,9 +1,0 @@
-{
-  "name" : "crustoise",
-  "category" : "icecrustoise",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icecrustoise.png"
-  }
-}

@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt1VEOwyAIBmAar9QnnnbeZRfpWbZDLGYhMeTHSSWza33wpSB8wdZuC9GTxq9t+azRjmmJsTwqebVYS3xapmVarm25d\/Sq7W21rMmuV8aQJcclx2spa3stqFfNgnqJpdy3p17NkpfXgubGHRYOtORnlkXP0XofJEfXR+fwzWKdkc7\/hcXq57Ew6ItqiAXlR1isGURZUO1Ii3WmlkXXPbuF07kt1h6vBd1nIyz62+qxWP+rf7GsjWfkuV8kzqndoueg57T33vVYXkS3I1iy40jrDWbNtZo=",
+         "data":"eJzt1cENgCAMBdAaHYkB3MKZmUWHMMY0IaQfKaAicuippbxARTsQrfR+2OGMtx3dUsayjGm5mLzWMk1puZh8t3RLt\/zPYkbcL5TjPNdoLUZ4G++ySHuxxV2X0i9kOUJrQXdUg8Xt5e\/nnyOaB67x+0v3kGNxa5+woP00ltAsxs5uCQs6g1IWqbakBd0psvh9W7e4+RYtaI3WIr1nX7egf0RrFs37wvmr7zTFEprrXMtGNNdgORw1xQ5rZIb2",
          "encoding":"base64",
          "height":33,
          "id":2,
@@ -162,12 +162,12 @@
  "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.11.2",
+ "tiledversion":"1.10.2",
  "tileheight":8,
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
@@ -175,7 +175,7 @@
         }, 
         {
          "firstgid":235,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":259,
@@ -196,6 +196,14 @@
         {
          "firstgid":815,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
+        }, 
+        {
+         "firstgid":855,
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/chemcryoprom.json"
+        }, 
+        {
+         "firstgid":861,
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/materials_black.json"
         }],
  "tilewidth":8,
  "type":"map",

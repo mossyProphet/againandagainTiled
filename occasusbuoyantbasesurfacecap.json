@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztz7EJgDAQhtHLQO7gvCI4R2bRIRQVBMFgoaTIKz644or\/5RQxR3vldFR7Bzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7e3ux19\/Bzs7Ozs7+h32J6McUfXd2v+89\/Q1xVfqbCn2x4+3f5t7tjRYrmParEw==",
+         "data":"eJztz8EJgDAQRcGN\/dhD6hUbSS2mCEUFQVA8KB4yhwc5LORPSRFTtFdJW3\/vYGdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnby\/2\/3ews7Ozs7N\/Ya8ReUyR+73z+9zV3RBHd3e1W\/686I0dT+8W92pvtJgBiWerBQ==",
          "encoding":"base64",
          "height":34,
          "id":2,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztzrENwCAQBMGjMwp2SXRAA4TggMCxJUhmpUk++etJOgAAAAAAAADwy9tTUk9p61\/Lt307uSOXG7m7YQKiznGw",
+         "data":"eJztzrEJACAQBMHH\/ku0g7cIERHMhU+chUkuuoyIBAAAAAAAAACerEar02O7O1vlj9+bgABwrg==",
          "encoding":"base64",
          "height":34,
          "id":3,
@@ -29,9 +29,32 @@
          "width":63,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"anchors etc",
+         "objects":[
+                {
+                 "gid":469,
+                 "height":8,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":248,
+                 "y":272
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":2,
+ "nextlayerid":6,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -39,7 +62,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
@@ -47,7 +70,7 @@
         }, 
         {
          "firstgid":235,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":259,
@@ -60,6 +83,10 @@
         {
          "firstgid":480,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/huge-objects.json"
+        }, 
+        {
+         "firstgid":581,
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/materials_black.json"
         }],
  "tilewidth":8,
  "type":"map",

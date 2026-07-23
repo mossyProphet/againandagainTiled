@@ -1,9 +1,0 @@
-{
-  "name" : "lumoth",
-  "category" : "firelumoth",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "firelumoth.png"
-  }
-}

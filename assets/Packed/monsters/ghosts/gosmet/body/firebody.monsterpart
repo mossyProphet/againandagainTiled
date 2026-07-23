@@ -1,9 +1,0 @@
-{
-  "name" : "gosmet",
-  "category" : "firegosmet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "firegosmet.png"
-  }
-}

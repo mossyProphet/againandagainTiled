@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzFlk0OAjEIhalXcdWFd\/C8jYnnmLOMhzCNEp\/Mg7bzowsyTqF8QCnjlERmWcr5xNdU2J4RmdJLPL1leOyeWKxNxPYYrTUvjr3Z+I7PyM5jq80tff++paVftUGdtUG7nvNGHu5nfhkbfUS9OcpmuUds9NHLZnF7OTP\/uj7K9uJmveP5R93IeUe5Y15RfGvZUU3t+t55t86U+T2i5iqF3N+Ir\/oiy7hGzxvZXl6sXlvYyGXsqrP61t6R+637M7ljRfyc7dqW2YJsG5e125Ntc49mXnbqsHW2INvjZ7KXzfw92TPUhn2LbO23sNl5np3Y2Hzp+ZbgPbJsdr+iM4nY+XQcu9VrjB3V\/BfsIp\/+9WZL67xbfZ6dO+L1FLtfUa+1+lz5rf9METubmoz0OZtN6jsDQ\/sQY1bBHh1hs5wvSa7V5\/39RP+4pjVby7Zcza3AHmTjO9Z8LRt7vErNW3NUUR3WwdakiM9+iFx75prNewJdZen7DLYRu3L\/KU8W7VNU",
+         "data":"eJzFlsENgzAMRQPDcGMHNu4ciFHaQ0aoUInkuv\/bTgL0YKVNgp9\/YhvWIaVn+rVpxHPF0DM1tg4fY+uawdiRWPQei80Y3hyL42y2\/C9Hax9jlz15\/P6dgd8sRsaW+yL3LXkT8I986zPV8Z\/BRtotdm5go7iZZuQ\/N7JZ3Ch3mH+5VnPflnapy4qvlS39bIfps96UId16vZbNtKH7PPvMUY1G+K15ju5bx26xvTys0R3NY9TXeuubsa0egOZ7ewuqsavZWnuk5+lYenuLZHt89i66gm31WpQzPWw0z2JD\/cViW32zzKH6kutWvqHvFlS\/LNcY2+q3NWzrzO9gs94VZUfy3OsPmsHWW\/PcYyP9aL4nzz2T+9Az6M4ibKR5HtKyj49jtEzXR49umSvlGca0cjXK1t+Dc1Av0s7Yr5QWxpbm5cHuS76vPPbO\/ae9ARf4dl0=",
          "encoding":"base64",
          "height":33,
          "id":2,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt1UEKgCAQBdBfdwn0Fp1XuoI38QZeoGUMNCCDFWQh1BfeytHvbMYMINOvpA5690xE9EWc50REffjx2Bt5Mn+XAbPc707IvtQ9Na\/lnmD6lZyp4Ez\/Ae3\/heaGvW9RZnrzBq3RM3fzk8lUEfXsWKm9ym9ZKzC3nN8A4ZJsYw==",
+         "data":"eJx7zcDA8HoUjyh8ZwDwQPt5FI\/iUTyKhyMeLc9H8SgexaN4YLAGE25MC\/tA5e8HPHYiY5A6apXXpNhLTfth9iJjZDvUsNiJjMm1H5u9H9DsQ2djU4\/PfkrADwYGB0r0AwAh0W3R",
          "encoding":"base64",
          "height":33,
          "id":3,
@@ -189,12 +189,12 @@
  "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.11.2",
+ "tiledversion":"1.10.2",
  "tileheight":8,
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":198,
@@ -202,7 +202,7 @@
         }, 
         {
          "firstgid":235,
-         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":259,
@@ -221,8 +221,12 @@
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/occasus.json"
         }, 
         {
-         "firstgid":542,
+         "firstgid":545,
          "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
+        }, 
+        {
+         "firstgid":585,
+         "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/materials_black.json"
         }],
  "tilewidth":8,
  "type":"map",

@@ -1,9 +1,0 @@
-{
-  "name" : "ringram",
-  "category" : "iceringram",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "iceringram.png"
-  }
-}
