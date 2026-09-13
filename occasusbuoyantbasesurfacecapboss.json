@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJx7zcDA8HoUjyh8ZwDwQPt5FI\/iUTyKhyMeLc9H8SgexaN4YLAGE25MC\/tA5e8HPHYiY5A6apXXpNhLTfth9iJjZDvUsNiJjMm1H5u9H9DsQ2djU4\/PfkrADwYGB0r0AwAh0W3R",
+         "data":"eJzt1MEJwCAMQNHQYaRjdP8ZuoEXjz0WoYUQRGkNBNovvFv04yVZRDJ+ZQ8Q\/WcA+CL2OQDEWJc+717dv2XQ1Oqsx85+2vXq311Nv58utqm96be6xbRsOzXme\/2Zc4hsM\/dP9yJqCA==",
          "encoding":"base64",
          "height":33,
          "id":3,
@@ -184,9 +184,39 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"anchors etc",
+         "objects":[
+                {
+                 "height":240,
+                 "id":11,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":232,
+                 "x":8,
+                 "y":16
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":11,
+ "nextlayerid":6,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt08sRgCAMBNCNlVGwZXihFilClPEoJozBUfaww4EMj\/CJAqzonygltGnTpk37P3aa6rV38632vq42Xn0vch2vvml\/17bsr+WdP\/UXrH3X5q33QnsM+6zxeueaePStPRva49kpj7Mg9LQPD8XOCS8EG29ro2A=",
+         "data":"eJztlVEOgyAMhsviwXxcOOuO4YtnmYeYjJCRP7QFMtRsffhDo5WP3wJdHdGTjtfqooxtbGMb29i\/w95ucq72vpcd5q3VKN+Li7pPnzhplG9kl\/hHsQP3H9m9\/7xlfdI+D2xtz3smZ4TvFAcmqrUuWr3zup\/FRvlsNHbbWeD2eWLksbQGVE1fKPnGe6WHjb2gdE9cmV1bd8znzqnGxvuF8yX5lrxrbK5\/4zM\/6TkSe9vHh6NZ++6b7DePInvXfILoBTm7WxA=",
          "encoding":"base64",
          "height":34,
          "id":2,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJx7zcDA8HoUj+JRTDRmGGC7YWCgw2EUj+LBhJUYGRhsWCA0LgyTp4X9b5gGzu+jdo8cu0H2gtLxHyB9hwEVg8T+IMnjwyA15PiBGv4m14xRu0eO3dRO5\/gwuXlhFI9iSvAbAmkXHaPnA2x5ghgMsncgAQBEAp1G",
+         "data":"eJx7zcDA8HoUj+JRTDRmGGC7YWCgw2EUj+LBhJUYGRhsWCA0LgyTp4X9b5gGzu+jdo8cu0H2gtLxHyB9hwEVg8T+IMnDsBcLAiOrIccP1PA3uWaM2j1y7KZ2OseHyc0Lo3gUU4LfMKGmX0IYPR9gyxPEYJC9AwkAP7uZJg==",
          "encoding":"base64",
          "height":34,
          "id":3,
@@ -46,6 +46,25 @@
                  "width":8,
                  "x":120,
                  "y":272
+                }, 
+                {
+                 "height":240,
+                 "id":24,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":232,
+                 "x":8,
+                 "y":24
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -159,6 +178,14 @@
                  "height":40,
                  "id":22,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksBooksOfLore\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -185,7 +212,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -234,6 +261,10 @@
         {
          "firstgid":1084,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/moogCity\/chemcryoprom.json"
+        }, 
+        {
+         "firstgid":1090,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
         }],
  "tilewidth":8,
  "type":"map",

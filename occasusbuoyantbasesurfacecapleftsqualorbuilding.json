@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt08sRgCAMBNCNlVGwZXihFilClPEoJozBUfaww4EMj\/CJAqzonygltGnTpk37P3aa6rV38632vq42Xn0vch2vvml\/17bsr+WdP\/UXrH3X5q33QnsM+6zxeueaePStPRva49kpj7Mg9LQPD8XOCS8EG29ro2A=",
+         "data":"eJztlcENwyAMRU2l7pVFKhbsGL1klmaIJo2s\/n6ZOlAIFw5fCOz4YWLDHESecr7msGuwB3uwB\/tM9u3ah71xVb3ZtfeC7OXybYvEqX0Gyt64LGXrnNl4DiX74rwf4SNl69xix8bsX0r5lLK9uIPt++TUeU5c7IV\/2Jq3xY4gtB+tx9Q+StnRYHMf1mDzGqtV3h6jJpvvFhT2Af4P\/AbfhBRbfbz73JLacOT6t\/qG43t5W+dg+XD98xuA65z3Ebbacb0lu6Zy2CzL3irvHHbKx2Mv63gPMrVgp+K8ebKzV00dJC\/eCR9A",
          "encoding":"base64",
          "height":34,
          "id":2,
@@ -46,6 +46,25 @@
                  "width":8,
                  "x":120,
                  "y":272
+                }, 
+                {
+                 "height":240,
+                 "id":34,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":232,
+                 "x":8,
+                 "y":24
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -233,7 +252,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -298,6 +317,10 @@
         {
          "firstgid":1235,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-category\/door.json"
+        }, 
+        {
+         "firstgid":1367,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
         }],
  "tilewidth":8,
  "type":"map",

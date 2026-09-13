@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt0sENgCAMBdBfJ2Ngx\/DCLDKEIOFiYi3EoIF\/+CGhTV9K8ALs6B8vObRp06ZNexw7LHrvU712RrHTnTXa3JoZ1703uY91b+sM2nPaNX\/0jbTsrdUtPamOxjenPYbd+5\/jJ3vTnscO8VwFroddek4P2Y5xHwQHjC2QBA==",
+         "data":"eJztlFEOwjAIhqnJ7rUbLb2Xx\/BlZ3GHcHMhIvkpsCwaTR\/+zFDgg0qZC9GdPq+57Orszu7szu7s\/2EvF+wzDbuscynPR54ze7NZYi7XYEn6ekJ938pLHsviyxxaqG\/ErsN7Deg+N7v8fQZ7y2OxZZ+6DpRjGo71jeJabOkv2WzPsnVc5v+PsNEsyjhrXqtxhtiZOUc16zdQQa9eDkrMeeu9IbZkVVVLhs05suzWrEXZZ+gIW\/eM9ga6U+ueLHZrl0ffkN7ryM4ip+\/ITm\/NWrRvi+3xvTlH+zzDlnERtpfjKDs6a7\/AXtbvtdD4CTb7PHm0s1eNXxA9AD5gP8I=",
          "encoding":"base64",
          "height":34,
          "id":2,
@@ -46,6 +46,25 @@
                  "width":8,
                  "x":120,
                  "y":272
+                }, 
+                {
+                 "height":240,
+                 "id":47,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":232,
+                 "x":8,
+                 "y":24
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -171,6 +190,14 @@
                  "height":16,
                  "id":30,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarrackslocker\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -225,6 +252,52 @@
                  "width":54,
                  "x":-8,
                  "y":256
+                }, 
+                {
+                 "gid":787,
+                 "height":14,
+                 "id":44,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":160,
+                 "y":136
+                }, 
+                {
+                 "gid":787,
+                 "height":14,
+                 "id":45,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":152,
+                 "y":184
+                }, 
+                {
+                 "gid":1594,
+                 "height":40,
+                 "id":46,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarrackslocker\"]}",
+                     "tilesetDirection":"left"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string",
+                     "tilesetDirection":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":168,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -233,7 +306,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":43,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
@@ -302,6 +375,14 @@
         {
          "firstgid":1253,
          "source":"..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/Packed\/tilesets\/packed\/objects-by-category\/door.json"
+        }, 
+        {
+         "firstgid":1385,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/mods\/againandagain\/tilesets\/occasus\/ruinmaterials.json"
+        }, 
+        {
+         "firstgid":1425,
+         "source":"..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Packed\/tilesets\/packed\/objects-by-colonytag\/human.json"
         }],
  "tilewidth":8,
  "type":"map",

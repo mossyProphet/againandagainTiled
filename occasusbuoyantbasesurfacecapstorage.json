@@ -40,6 +40,14 @@
                  "height":48,
                  "id":2,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -52,6 +60,14 @@
                  "height":48,
                  "id":3,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -85,6 +101,14 @@
                  "height":48,
                  "id":5,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -97,6 +121,14 @@
                  "height":48,
                  "id":6,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -109,6 +141,14 @@
                  "height":48,
                  "id":7,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -121,6 +161,14 @@
                  "height":48,
                  "id":8,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -133,6 +181,14 @@
                  "height":48,
                  "id":9,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -145,6 +201,14 @@
                  "height":48,
                  "id":10,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\": [\"occasusbarracksShippingCrate\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -157,9 +221,39 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":6,
+         "name":"anchors etc",
+         "objects":[
+                {
+                 "height":240,
+                 "id":11,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "propertytypes":
+                    {
+                     "stagehand":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":264,
+                 "x":8,
+                 "y":16
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":6,
- "nextobjectid":11,
+ "nextlayerid":7,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",

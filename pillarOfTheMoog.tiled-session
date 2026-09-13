@@ -3,19 +3,19 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "occasusbuoyantbasesurfacecapcentersciencingbuilding.json",
+    "activeFile": "occasusskullfoundrygeneratorroom.json",
     "expandedProjectPaths": [
-        "assets",
-        "assets/Packed",
-        "assets/Packed/tilesets",
-        "steamspring",
-        "novakidhumangrad",
+        ".",
         "tilesets/packed",
-        "huh",
-        "assets/Packed/tilesets/packed",
-        "dungeons",
         "alternateSet",
-        "."
+        "dungeons",
+        "steamspring",
+        "huh",
+        "novakidhumangrad",
+        "assets/Packed/tilesets",
+        "assets/Packed/tilesets/packed",
+        "assets",
+        "assets/Packed"
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
@@ -697,6 +697,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Packed/tilesets/packed/objects-by-colonytag/humanprison.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Packed/tilesets/packed/objects-by-colonytag/hylotlvillage.json": {
@@ -1015,6 +1016,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/flesh.json": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-colonytag/floran.json": {
@@ -1385,6 +1387,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-type/teleporter.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/supports.json": {
@@ -1423,6 +1426,7 @@
             "scaleInDock": 1
         },
         "C:/../Program Files/OpenStarbound/mods/againandagain/tilesets/occasus/occasus.json": {
+            "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/../Users/RobotComp.ru/Desktop/againandagain/tilesets/occasus/ruinmaterials.json": {
@@ -3061,6 +3065,28 @@
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/Packed/tilesets/packed/supports.json": {
             "scaleInDock": 1
         },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/apex/apextestfacility/apextestfacility2a.json": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 493.5,
+                "y": 308
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/avian/aviannativevillage/aviannativevillageendleft1.json": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.78125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 236.91228070175436,
+                "y": 236.91228070175436
+            }
+        },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/avian/aviannativevillage/aviannativevillagehouse5.json": {
             "expandedObjectLayers": [
                 9
@@ -3255,6 +3281,25 @@
             "viewCenter": {
                 "x": 122.875,
                 "y": 267.625
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/microdungeons/biomes/foundry/cliffrightscaffolding1.json": {
+            "scale": 1.78125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 240,
+                "y": 240.28070175438594
+            }
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/microdungeons/biomes/foundry/cliffrightscaffolding2.json": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 3,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 274.83333333333337,
+                "y": 180.33333333333331
             }
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/dungeons/microdungeons/biomes/foundry/occasusskullfoundrygeneratorroom.json": {
@@ -4698,7 +4743,7 @@
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/materials_black.json": {
             "dynamicWrapping": true,
             "scaleInDock": 2,
-            "scaleInEditor": 1
+            "scaleInEditor": 4
         },
         "C:/Program Files (x86)/Steam/steamapps/common/Starbound/mods/againandagain/tilesets/moogCity/moogCity.json": {
             "dynamicWrapping": true,
@@ -4727,6 +4772,10 @@
             "dynamicWrapping": true,
             "scaleInDock": 0.0625,
             "scaleInEditor": 0.0625
+        },
+        "C:/Program Files (x86)/Steam/steamapps/common/Starbound/unpacked/againandagainthree/tilesets/moogCity/materials_black.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
         },
         "C:/Program Files (x86)/Steam/steamapps/common/tilesets/occasus/occasus.json": {
             "scaleInDock": 1
@@ -7183,11 +7232,11 @@
             }
         },
         "occasusbookroom.json": {
-            "scale": 4,
+            "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 199.75,
-                "y": 83.5
+                "x": 244.66666666666666,
+                "y": 69.99999999999997
             }
         },
         "occasusbuoyantascent.json": {
@@ -7198,8 +7247,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 280,
-                "y": 136.33333333333331
+                "x": 279.66666666666663,
+                "y": 135.33333333333331
             }
         },
         "occasusbuoyantbase.json": {
@@ -7210,8 +7259,8 @@
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 212,
-                "y": 179.75
+                "x": 211.75,
+                "y": 179
             }
         },
         "occasusbuoyantbasement.json": {
@@ -7222,8 +7271,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 280,
-                "y": 48.333333333333314
+                "x": 279.66666666666663,
+                "y": 47.333333333333314
             }
         },
         "occasusbuoyantbasementedge.json": {
@@ -7242,8 +7291,8 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 60,
-                "y": 48.16666666666666
+                "x": 59.833333333333314,
+                "y": 47.66666666666666
             }
         },
         "occasusbuoyantbasementedgeleftcap.json": {
@@ -7254,8 +7303,8 @@
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 132.5,
-                "y": 154.75
+                "x": 132.25,
+                "y": 154.5
             }
         },
         "occasusbuoyantbasementedgeright.json": {
@@ -7266,8 +7315,8 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 60,
-                "y": 48.16666666666666
+                "x": 59.833333333333314,
+                "y": 47.66666666666666
             }
         },
         "occasusbuoyantbasementedgerightcap.json": {
@@ -7278,8 +7327,8 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 120,
-                "y": 100.16666666666666
+                "x": 119.83333333333331,
+                "y": 99.66666666666669
             }
         },
         "occasusbuoyantbasementrooms.json": {
@@ -7321,46 +7370,58 @@
                 4
             ],
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 124,
-                "y": 132.25
+                "x": 123.75,
+                "y": 131.5
             }
         },
         "occasusbuoyantbasesurfacecapcenterbaselinebuilding.json": {
             "expandedObjectLayers": [
-                6,
-                5
+                5,
+                6
             ],
             "scale": 3,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 117.5,
-                "y": 197.66666666666669
+                "x": 123.83333333333331,
+                "y": 135.33333333333331
+            }
+        },
+        "occasusbuoyantbasesurfacecapcenterlibrarybuilding.json": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 3.143382352941176,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 123.59298245614039,
+                "y": 135.2046783625731
             }
         },
         "occasusbuoyantbasesurfacecapcentersciencingbuilding.json": {
             "expandedObjectLayers": [
-                6,
-                5
+                5,
+                6
             ],
             "scale": 3,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 117.5,
-                "y": 197.66666666666669
+                "x": 123.83333333333331,
+                "y": 135.33333333333331
             }
         },
         "occasusbuoyantbasesurfacecapcentersqualorbuilding.json": {
             "expandedObjectLayers": [
-                6,
-                5
+                5,
+                6
             ],
-            "scale": 2,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 151.75,
-                "y": 136
+                "x": 123.5,
+                "y": 135
             }
         },
         "occasusbuoyantbasesurfacecapleftbuilding.json": {
@@ -7377,36 +7438,38 @@
         },
         "occasusbuoyantbasesurfacecapleftsqualorbuilding.json": {
             "expandedObjectLayers": [
-                6,
-                5
+                5,
+                6
             ],
             "scale": 2,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 217.25,
-                "y": 149.5
+                "x": 123.75,
+                "y": 135.5
             }
         },
         "occasusbuoyantbasesurfacecaplefttreatmentbuilding.json": {
             "expandedObjectLayers": [
-                5
+                5,
+                6
             ],
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 212.66666666666663,
-                "y": 200.66666666666663
+                "x": 123.66666666666663,
+                "y": 135.33333333333331
             }
         },
         "occasusbuoyantbasesurfacecapstorage.json": {
             "expandedObjectLayers": [
-                5
+                5,
+                6
             ],
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 140,
-                "y": 132.33333333333331
+                "x": 139.66666666666663,
+                "y": 131.33333333333331
             }
         },
         "occasusbuoyantlaboratoriesrooms.json": {
@@ -7438,8 +7501,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 250.33333333333334,
-                "y": 133.99999999999997
+                "x": 249.66666666666663,
+                "y": 133.33333333333331
             }
         },
         "occasusbuoyantstoragerooms.json": {
@@ -7449,8 +7512,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 252,
-                "y": 136.33333333333331
+                "x": 250.99999999999997,
+                "y": 134.66666666666663
             }
         },
         "occasuscrossway.json": {
@@ -7458,10 +7521,10 @@
                 3
             ],
             "scale": 4,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 81.375,
-                "y": 59.75
+                "x": 80.5,
+                "y": 58.5
             }
         },
         "occasusmasterplaguefacilityascent.json": {
@@ -7528,8 +7591,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 304,
-                "y": 905.3333333333333
+                "x": 301.66666666666663,
+                "y": 902.6666666666666
             }
         },
         "occasusmasterplaguefacilityfarm.json": {
@@ -7674,32 +7737,33 @@
                 3
             ],
             "scale": 2,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 327.25,
-                "y": 44
+                "x": 705.5,
+                "y": 41
             }
         },
         "occasusskullfoundrybalconyofshadow.json": {
             "expandedObjectLayers": [
-                4
+                4,
+                5
             ],
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 128,
-                "y": 128.25
+                "x": 127.75,
+                "y": 127.5
             }
         },
         "occasusskullfoundrybalconyofshadow2.json": {
             "expandedObjectLayers": [
                 4
             ],
-            "scale": 2,
-            "selectedLayer": 2,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 186.75,
-                "y": 127
+                "x": 127.66666666666663,
+                "y": 127.33333333333331
             }
         },
         "occasusskullfoundrybasebasement.json": {
@@ -7708,10 +7772,10 @@
                 3
             ],
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 665.5,
-                "y": 123
+                "x": 183.5,
+                "y": 126
             }
         },
         "occasusskullfoundrybasecentralroom.json": {
@@ -7719,23 +7783,35 @@
                 4,
                 3
             ],
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 175.5,
-                "y": 277
+                "x": 218.66666666666663,
+                "y": 127.33333333333331
+            }
+        },
+        "occasusskullfoundrybasement.json": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 924,
+                "y": 32.09090909090909
             }
         },
         "occasusskullfoundrygeneratorroom.json": {
             "expandedObjectLayers": [
                 4,
+                5,
                 3
             ],
-            "scale": 2,
-            "selectedLayer": 2,
+            "scale": 1.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 304.5,
-                "y": 126.5
+                "x": 324.66666666666663,
+                "y": 200.99999999999997
             }
         },
         "occasusskullfoundrygymbasement.json": {
@@ -7747,6 +7823,19 @@
             "viewCenter": {
                 "x": 508.66666666666663,
                 "y": 161.33333333333331
+            }
+        },
+        "occasusskullfoundrylivingroom.json": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 308,
+                "y": 128.5
             }
         },
         "occasusskullfoundryrestingroom.json": {
@@ -7787,24 +7876,25 @@
         },
         "occasusskullfoundrystairway.json": {
             "expandedObjectLayers": [
+                4,
                 3
             ],
-            "scale": 2,
-            "selectedLayer": 1,
+            "scale": 3.33984375,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 123,
-                "y": 128.25
+                "x": 67.96725146198831,
+                "y": 128
             }
         },
         "occasusskullfoundrystairway2.json": {
             "expandedObjectLayers": [
                 3
             ],
-            "scale": 3,
+            "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 103.33333333333333,
-                "y": 128.16666666666669
+                "x": 26,
+                "y": 125.5
             }
         },
         "occasusskullfoundrystairway3.json": {
@@ -7814,8 +7904,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 304.66666666666663,
-                "y": 774.3333333333333
+                "x": 304.33333333333337,
+                "y": 773.3333333333333
             }
         },
         "occasusskullfoundrystairway4.json": {
@@ -7829,6 +7919,117 @@
                 "y": 168.33333333333337
             }
         },
+        "occasusskullfoundrystairwaybottom.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 68,
+                "y": 127.83333333333334
+            }
+        },
+        "occasusskullfoundrystairwayleft.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 21.5,
+                "y": 104.66666666666669
+            }
+        },
+        "occasusskullfoundrystairwayleftbottom.json": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 65.49999999999999,
+                "y": 130.99999999999997
+            }
+        },
+        "occasusskullfoundrystairwaylefttop.json": {
+            "scale": 3.33984375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 68.11695906432747,
+                "y": 128.1497076023392
+            }
+        },
+        "occasusskullfoundrystairwaymid.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 82.75,
+                "y": 380.5
+            }
+        },
+        "occasusskullfoundrystairwaymiddle.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 94.33333333333331,
+                "y": 416.66666666666663
+            }
+        },
+        "occasusskullfoundrystairwayright.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 10.5,
+                "y": 110.66666666666669
+            }
+        },
+        "occasusskullfoundrystairwayrightbottom.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 70.75,
+                "y": 153
+            }
+        },
+        "occasusskullfoundrystairwayrighttop.json": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 62.833333333333314,
+                "y": 112.33333333333331
+            }
+        },
+        "occasusskullfoundrystairwaytop.json": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 68,
+                "y": 127.83333333333334
+            }
+        },
         "occasusskullfoundrystoragebasement.json": {
             "expandedObjectLayers": [
                 4,
@@ -7837,8 +8038,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 656,
-                "y": 205
+                "x": 653.5,
+                "y": 203
             }
         },
         "occasusskullfoundrysubthroneroom.json": {
@@ -7849,32 +8050,33 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 219.33333333333334,
-                "y": 127.66666666666663
+                "x": 217,
+                "y": 213.33333333333337
             }
         },
         "occasusskullfoundrythroneroom.json": {
             "expandedObjectLayers": [
                 4,
+                5,
                 3
             ],
             "scale": 1.5,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 393.33333333333337,
-                "y": 38.66666666666663
+                "x": 308,
+                "y": 128.33333333333331
             }
         },
         "occasusskullfoundrytoproom.json": {
             "expandedObjectLayers": [
-                4,
-                3
+                3,
+                4
             ],
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 279.5,
-                "y": 127.75
+                "x": 277,
+                "y": 126
             }
         },
         "packed/huge-objects.json": {
@@ -7953,40 +8155,36 @@
     "last.externalTilesetPath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/assets/Packed/tilesets/packed/objects-by-category",
     "last.imagePath": "C:/Program Files (x86)/Steam/steamapps/common/Starbound/tiled/materials_black",
     "last.objectTemplatePath": "C:/Users/mitsk/OneDrive/Документы/againandagainTiled",
-    "map.height": 25,
+    "map.height": 8,
     "map.lastUsedFormat": "json1",
     "map.layerDataFormat": null,
     "map.tileHeight": 8,
     "map.tileWidth": 8,
-    "map.width": 25,
+    "map.width": 231,
     "openFiles": [
-        "occasusbuoyantbasementedgeleftcap.json",
-        "occasusbuoyantbasementedgerightcap.json",
-        "occasusbuoyantbase.json",
-        "occasusbuoyantbasement.json",
-        "occasusbuoyantascent.json",
-        "occasusbuoyantbasementedgeleft.json",
-        "occasusbuoyantbasementedgeright.json",
-        "occasusbuoyantbasesurfacecapboss.json",
-        "occasusbuoyantstoragerooms.json",
-        "occasusbuoyantbasesurfacecapstorage.json",
-        "occasusbuoyantbasesurfacecapcentersciencingbuilding.json"
+        "occasusskullfoundrygeneratorroom.json",
+        "occasusskullfoundrythroneroom.json",
+        "occasusskullfoundrylivingroom.json",
+        "occasusskullfoundrystairwaytop.json",
+        "occasusskullfoundrystairway.json",
+        "occasusskullfoundrystairwaybottom.json",
+        "occasusskullfoundrybasement.json"
     ],
     "project": "pillarOfTheMoog.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "occasusbuoyantstoragerooms.json",
-        "occasusbuoyantbasementedgeleftcap.json",
-        "occasusbuoyantbasementedgerightcap.json",
-        "occasusbuoyantbase.json",
-        "occasusbuoyantbasement.json",
-        "occasusbuoyantascent.json",
-        "occasusbuoyantbasementedgeleft.json",
-        "occasusbuoyantbasementedgeright.json",
-        "occasusbuoyantbasesurfacecapboss.json",
-        "occasusbuoyantbasesurfacecapstorage.json",
-        "occasusbuoyantbasesurfacecapcentersciencingbuilding.json",
-        "occasusbuoyantbasesurfacecapleftsqualorbuilding.json"
+        "occasusskullfoundrybasement.json",
+        "occasusskullfoundrystairwaybottom.json",
+        "occasusskullfoundrystairway.json",
+        "occasusskullfoundrystairwaytop.json",
+        "occasusskullfoundrylivingroom.json",
+        "occasusskullfoundrythroneroom.json",
+        "occasusskullfoundrygeneratorroom.json",
+        "occasusskullfoundrytoproom.json",
+        "occasusskullfoundrystairway2.json",
+        "occasuspassway.json",
+        "occasuscrossway.json",
+        "occasusbookroom.json"
     ],
     "resizeMap.removeObjects": false,
     "tileset.embedInMap": false,
